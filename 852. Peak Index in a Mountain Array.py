@@ -17,3 +17,4 @@ while left <= right:
 
 print(ans)
 
+
