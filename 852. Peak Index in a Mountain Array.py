@@ -17,4 +17,3 @@ while left <= right:
 
 print(ans)
 
-#Letcode: 
